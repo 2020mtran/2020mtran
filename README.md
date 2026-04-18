@@ -1,7 +1,7 @@
 ## Hi there, my name is Matthew! 👋
 
-- 🔭 I’m currently working on a website that allows users to upload an image and get that image scanned. The website will then print out a downloadable card with information summarizing the text scanned from the image.
-- 🌱 I’m currently learning how to code in Next.js and learning how to utilize OCR.
+- 🔭 I’m currently working on a new portfolio website after just creating a website that allows users to upload an image and get that image scanned.
+- 🌱 I’m currently learning how to better code in Next.js.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with finding a job and learning how to use backend technologies.
 - 💬 Ask me about anything.
