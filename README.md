@@ -1,6 +1,6 @@
 ## Hi there, my name is Matthew! 👋
 
-- 🔭 I’m currently working on a new portfolio website after just creating a website that allows users to upload an image and get that image scanned.
+- 🔭 I just finished creating my new portfolio website.
 - 🌱 I’m currently learning how to better code in Next.js.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with finding a job and learning how to use backend technologies.
